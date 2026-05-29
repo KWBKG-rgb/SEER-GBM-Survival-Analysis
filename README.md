@@ -29,12 +29,19 @@
 ## 项目结构
 
 ├── data.csv # 原始SEER数据
+
 ├── cleaned_data.csv # 清洗后数据
+
 ├── data_clean.ipynb # 数据清洗
+
 ├── descriptive_analysis.ipynb # 描述性分析 + Table 1
+
 ├── survival_analysis.ipynb # KM曲线 + Log-rank检验
+
 ├── prediction_model.ipynb # Cox回归 + ROC + DCA + 列线图
+
 ├── fig1_sex.tiff ~ fig16_nomogram.tiff # 结果图
+
 └── table1.csv # 基线特征表
 
 ## 主要结果
@@ -46,12 +53,19 @@
 ## 环境依赖
 
 Python >= 3.8
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 lifelines
+
 scikit-learn
+
 ## 参考文献
 
 1. SEER Program: https://seer.cancer.gov
