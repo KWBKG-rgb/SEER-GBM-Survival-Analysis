@@ -75,7 +75,7 @@ scikit-learn
 
 MIT License
 
-## ⚠️ Limitations
+## Limitations
 
 - Race and Sex were not included as covariates in the Cox model
 - Age and Stage were treated as ordinal variables
