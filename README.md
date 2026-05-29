@@ -74,3 +74,9 @@ scikit-learn
 ## License
 
 MIT License
+
+## ⚠️ Limitations
+
+- Race and Sex were not included as covariates in the Cox model
+- Age and Stage were treated as ordinal variables
+- Grade was excluded due to 74.5% missing data
