@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# SEER data (不能公开分享)
+data.csv
+cleaned_data.csv
+*.tiff
+table1.csv
